@@ -1,0 +1,7 @@
+title: "Claude Code × Geminiで挑む個人開発 〜AWS資格対策アプリ「Dojoru」開発記〜"
+summary: "AWS SAP-C02対策アプリ「Dojoru」を、Claude CodeとGeminiを使って個人開発した記録。Claude Codeを開く前の壁打ちから、AIに仮想的な「部署」を持たせて回した体制づくり、AI生成コンテンツに潜んでいた統計的な欠陥、UI改善、リリース運用までを全9話で振り返る。"
+topics: ["claudecode", "ai", "個人開発", "reactnative", "expo"]
+published: true
+price: 0
+chapters:
+  - 00-prologue

@@ -1,5 +1,9 @@
-# Zenn CLI
+# Zenn Contents
 
-Dojoru開発秘話シリーズの本(Book)のソースです。
+Zennアカウント(ジロー / jiro2026)のコンテンツ用リポジトリです。Zennの仕様上、GitHub連携できるリポジトリ数に上限があるため、プロジェクト単位でリポジトリを分けず、プロジェクトごとにサブフォルダを切って1リポジトリに集約する運用とします。
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+## 構成
+
+- `dojoru-kaihatsu-hiwa/` — Dojoru開発秘話シリーズ(本)のソース。Zenn側のGitHub連携では、このリポジトリの `dojoru-kaihatsu-hiwa` をルートディレクトリとして指定する。
+
+今後、別プロジェクト・別トピックの記事/本を追加する場合も、同様にルート直下へ新規サブフォルダを作成する。

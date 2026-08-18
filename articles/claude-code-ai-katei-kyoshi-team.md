@@ -3,7 +3,7 @@ title: "中学生の期末試験対策を、Claude Codeで“AI家庭教師チ�
 emoji: "📚"
 type: "tech"
 topics: ["claudecode", "ai", "生成ai", "個人開発", "教育"]
-published: false
+published: true
 ---
 
 ## はじめに

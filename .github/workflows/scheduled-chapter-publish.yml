@@ -1,0 +1,72 @@
+name: Scheduled Chapter Publish
+
+on:
+  schedule:
+    # 19:00 JST = 10:00 UTC(日次実行。該当日以外は何もしない)
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+    inputs:
+      chapter:
+        description: "手動実行時に公開するチャプター名(未指定なら日付から自動判定)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 今日の日付から公開対象チャプターを判定
+        id: lookup
+        run: |
+          TODAY=$(TZ='Asia/Tokyo' date +%Y-%m-%d)
+          echo "today (JST) = $TODAY"
+
+          if [ -n "${{ inputs.chapter }}" ]; then
+            CHAPTER="${{ inputs.chapter }}"
+          else
+            case "$TODAY" in
+              2026-08-21) CHAPTER="01-blueprint" ;;
+              2026-08-22) CHAPTER="02-team" ;;
+              2026-08-23) CHAPTER="03-branding" ;;
+              2026-08-28) CHAPTER="04-tech-stack" ;;
+              2026-08-29) CHAPTER="05-content-quality" ;;
+              2026-08-30) CHAPTER="06-ux" ;;
+              2026-09-04) CHAPTER="07-bugs" ;;
+              2026-09-05) CHAPTER="08-release" ;;
+              *) CHAPTER="" ;;
+            esac
+          fi
+
+          echo "chapter=$CHAPTER" >> "$GITHUB_OUTPUT"
+          echo "resolved chapter = $CHAPTER"
+
+      - name: config.yamlへチャプターを追加してpush
+        if: steps.lookup.outputs.chapter != ''
+        run: |
+          CHAPTER="${{ steps.lookup.outputs.chapter }}"
+          CONFIG="books/dojoru-kaihatsu-hiwa/config.yaml"
+
+          if grep -qE "^\s*-\s*${CHAPTER}\s*$" "$CONFIG"; then
+            echo "既に公開済みのためスキップ: $CHAPTER"
+            exit 0
+          fi
+
+          if [ ! -f "books/dojoru-kaihatsu-hiwa/${CHAPTER}.md" ]; then
+            echo "::error::本文ファイルが見つかりません: ${CHAPTER}.md"
+            exit 1
+          fi
+
+          echo "  - ${CHAPTER}" >> "$CONFIG"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$CONFIG"
+          git commit -m "chore: ${CHAPTER}を公開(予約投稿・自動実行)"
+          git push

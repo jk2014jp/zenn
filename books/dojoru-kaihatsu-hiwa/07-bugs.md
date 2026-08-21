@@ -71,4 +71,4 @@ Dojoruでは、ロジック層のユニットテストに加えて、品質管�
 
 ---
 
-*このシリーズの記事一覧: 第0回 なぜアプリを作ろうとしたのか / 第1回 Claude Codeを開く前に、もう設計は始まっていた / 第2回 個人開発にAIで「部署」を作ってみた話 / 第3回 差別化とブランディングは、Geminiと作った / 第4回 決めた技術を2日で全部やり直した話 / 第5回 AIが作った試験問題、実は読まずに解けた話 / 第6回 モックで試してから作る、を徹底してみた話 / 第7回(本記事)/ 第8回 WindowsだけでAndroid/iOS同時リリースする*
+*このシリーズの記事一覧: [第0回 なぜアプリを作ろうとしたのか](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/00-prologue) / [第1回 Claude Codeを開く前に、もう設計は始まっていた](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/01-blueprint) / [第2回 個人開発にAIで「部署」を作ってみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/02-team) / [第3回 差別化とブランディングは、Geminiと作った](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/03-branding) / [第4回 決めた技術を2日で全部やり直した話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/04-tech-stack) / [第5回 AIが作った試験問題、実は読まずに解けた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/05-content-quality) / [第6回 モックで試してから作る、を徹底してみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/06-ux) / 第7回(本記事)/ [第8回 WindowsだけでAndroid/iOS同時リリースする](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/08-release)*

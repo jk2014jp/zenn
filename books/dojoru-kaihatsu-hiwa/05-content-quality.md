@@ -73,7 +73,3 @@ Dojoruのアプリは、選択肢の表示順を毎回シャッフルせず、�
 - 一度直しても、やり方自体をルール化しないと再発する
 
 次回は、UIの細かい改善を「作ってから直す」ではなく「試してから作る」で進めた話です。
-
----
-
-*このシリーズの記事一覧: [第0回 なぜアプリを作ろうとしたのか](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/00-prologue) / [第1回 Claude Codeを開く前に、もう設計は始まっていた](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/01-blueprint) / [第2回 個人開発にAIで「部署」を作ってみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/02-team) / [第3回 差別化とブランディングは、Geminiと作った](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/03-branding) / [第4回 決めた技術を2日で全部やり直した話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/04-tech-stack) / 第5回(本記事)/ [第6回 モックで試してから作る、を徹底してみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/06-ux) / [第7回 1つ直したら3つ壊れた日](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/07-bugs) / [第8回 WindowsだけでAndroid/iOS同時リリースする](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/08-release)*

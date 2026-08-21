@@ -68,7 +68,3 @@ Dojoruでは、ロジック層のユニットテストに加えて、品質管�
 - 実機で確認する→気づく→直す→また実機で確認する、というループを、AI(PM)自身が能動的に回して自己発見的にバグを見つけていく、という進め方が有効だった。指示待ちではなく、「直したものを自分で疑ってかかる」姿勢が積み重なって、その日のうちに一連の問題を収束させられました
 
 次回はシリーズ最終回、Windowsだけでどうやって Android と iOS の両方をリリースまで持っていったか、という話です。
-
----
-
-*このシリーズの記事一覧: [第0回 なぜアプリを作ろうとしたのか](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/00-prologue) / [第1回 Claude Codeを開く前に、もう設計は始まっていた](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/01-blueprint) / [第2回 個人開発にAIで「部署」を作ってみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/02-team) / [第3回 差別化とブランディングは、Geminiと作った](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/03-branding) / [第4回 決めた技術を2日で全部やり直した話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/04-tech-stack) / [第5回 AIが作った試験問題、実は読まずに解けた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/05-content-quality) / [第6回 モックで試してから作る、を徹底してみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/06-ux) / 第7回(本記事)/ [第8回 WindowsだけでAndroid/iOS同時リリースする](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/08-release)*

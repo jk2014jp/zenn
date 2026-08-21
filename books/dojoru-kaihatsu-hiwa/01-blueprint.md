@@ -111,7 +111,3 @@ MVPの骨格が固まったのと同じ流れの中で、アプリの名前も�
 「AIと個人開発を進める」というと、つい実装フェーズの華やかさに目が行きがちですが、実際に一番効いていたのは、その前段の、市場調査と要件整理という地味な壁打ちだったのかもしれません。
 
 次回は、いよいよClaude Codeでの開発が始まってからの話に戻り、AIに仮想的な「部署」を持たせた体制づくりの話をします(このExpoの伏線がどう回収されたかは、第4回で書きます)。
-
----
-
-*このシリーズの記事一覧: [第0回 なぜアプリを作ろうとしたのか](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/00-prologue) / 第1回(本記事)/ [第2回 個人開発にAIで「部署」を作ってみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/02-team) / [第3回 差別化とブランディングは、Geminiと作った](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/03-branding) / [第4回 決めた技術を2日で全部やり直した話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/04-tech-stack) / [第5回 AIが作った試験問題、実は読まずに解けた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/05-content-quality) / [第6回 モックで試してから作る、を徹底してみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/06-ux) / [第7回 1つ直したら3つ壊れた日](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/07-bugs) / [第8回 WindowsだけでAndroid/iOS同時リリースする](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/08-release)*

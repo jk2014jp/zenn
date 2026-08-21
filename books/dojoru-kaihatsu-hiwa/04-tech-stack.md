@@ -79,7 +79,3 @@ Macを1台も使わずにAndroid・iOS両方のアプリをビルドできる、
 - 既存の資産(仕様・ドキュメント)は、実装言語が変わっても「考え方」の部分は転用できる
 
 次回は、「AI自身が生成したコンテンツの落とし穴」について書きます。
-
----
-
-*このシリーズの記事一覧: [第0回 なぜアプリを作ろうとしたのか](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/00-prologue) / [第1回 Claude Codeを開く前に、もう設計は始まっていた](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/01-blueprint) / [第2回 個人開発にAIで「部署」を作ってみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/02-team) / [第3回 差別化とブランディングは、Geminiと作った](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/03-branding) / 第4回(本記事)/ [第5回 AIが作った試験問題、実は読まずに解けた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/05-content-quality) / [第6回 モックで試してから作る、を徹底してみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/06-ux) / [第7回 1つ直したら3つ壊れた日](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/07-bugs) / [第8回 WindowsだけでAndroid/iOS同時リリースする](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/08-release)*

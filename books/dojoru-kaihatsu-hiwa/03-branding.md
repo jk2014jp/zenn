@@ -79,7 +79,3 @@ Claude CodeはProプランで使っています。プロジェクト開始当初
 少し主観的な感想も書いておきます。実際に両方を使ってみて、Claudeは**真面目な秀才**、Geminiは**どこか抜けているけど発想が面白い変わり者**、というのが私の中の印象です。決まったことをきっちりこなしていくのはClaudeの方が得意で、柔らかく発想を広げるのはGeminiの方が得意、という体感を持っています。
 
 次回からは、再びClaude Code側の話に戻り、技術スタックを2日で丸ごとやり直した顛末を書きます。
-
----
-
-*このシリーズの記事一覧: [第0回 なぜアプリを作ろうとしたのか](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/00-prologue) / [第1回 Claude Codeを開く前に、もう設計は始まっていた](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/01-blueprint) / [第2回 個人開発にAIで「部署」を作ってみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/02-team) / 第3回(本記事)/ [第4回 決めた技術を2日で全部やり直した話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/04-tech-stack) / [第5回 AIが作った試験問題、実は読まずに解けた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/05-content-quality) / [第6回 モックで試してから作る、を徹底してみた話](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/06-ux) / [第7回 1つ直したら3つ壊れた日](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/07-bugs) / [第8回 WindowsだけでAndroid/iOS同時リリースする](https://zenn.dev/jiro2026/books/dojoru-kaihatsu-hiwa/viewer/08-release)*

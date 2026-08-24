@@ -7,7 +7,7 @@ title: "Claude Codeを開く前に、もう設計は始まっていた"
 **Dojoru(道場る)** は、AWS資格試験「SAP-C02」対策のための問題演習Androidアプリ(非公式教材)です。ここまで前回は、なぜこのアプリを作ろうと思ったかという話をしました。今回は、その動機が固まった後、**Claude Codeを開く前に、通常のClaudeとのチャットだけで実はかなりの部分が決まっていた**という話をします。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 ## きっかけは「携帯ゲームアプリ」だった
 

@@ -7,7 +7,7 @@ title: "差別化とブランディングは、Geminiと作った"
 AWS資格試験「SAP-C02」対策アプリ「Dojoru(道場る)」を、AIと協業しながら個人開発している記録シリーズです。ここまでの回では、開発の中身をClaude Codeとどう進めたかを書いてきました。今回は少し毛色を変えて、**Claude Codeの合間に、Google Geminiを使って進めていた"企画・ブランディング"の話**をします。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 ## なぜツールを使い分けたか
 

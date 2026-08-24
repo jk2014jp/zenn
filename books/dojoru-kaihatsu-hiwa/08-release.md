@@ -7,7 +7,7 @@ title: "WindowsだけでAndroid/iOS同時リリースする"
 AWS資格試験「SAP-C02」対策アプリ「Dojoru」を、AI(Claude Code)と協業しながら個人開発している記録シリーズです。最終回となる今回は、Windowsだけでどうやって Android と iOS の両方をビルド・配信まで持っていったか、という運用の話と、シリーズ全体の振り返りをします。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 ## EAS Buildという選択
 

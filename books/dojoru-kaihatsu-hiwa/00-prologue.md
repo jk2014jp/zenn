@@ -7,7 +7,7 @@ title: "「人間がコードを書く時代が終わるかも」手を動かさ
 **Dojoru(道場る)** は、AWS資格試験「SAP-C02」対策のための問題演習Androidアプリ(非公式教材)です。これから何回かに分けて、このアプリを個人開発した記録を書いていきます。第1回以降は体制やAI活用、バグ探しといった開発の中身の話が中心になりますが、その前に、**そもそもなぜこのアプリを作ろうと思ったのか**という、一番最初のきっかけを書いておきます。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 ![Dojoruのホーム画面。ランダム5問のクイック演習、今日の復習カード、カテゴリ別演習と伸びしろ番長のカード、直近正答率・連続学習日数・総回答数が並ぶ](/images/screenshot-home.png)
 

@@ -7,7 +7,7 @@ title: "1つ直したら3つ壊れた日"
 AWS資格試験「SAP-C02」対策アプリ「Dojoru」を、AI(Claude Code)と協業しながら個人開発している記録シリーズです。今回は、たった1日の間に立て続けに起きた「バグの連鎖」を、時系列でそのまま紹介します。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 Dojoruでは、ロジック層のユニットテストに加えて、品質管理チームが主導するE2Eテスト(Maestroによる自動化フロー)でユースケースを網羅的にカバーする、という体制をとっています。ですが今回紹介する4件のバグは、実はどれもこの自動テストが見つけたものではありません。オーナーが実機でアプリを触っていて「あれ、おかしいな」と気づいたもの、あるいは別の機能を実機検証している最中にAI(PM)自身が偶然発見したもの――発端はすべて、人が実際にアプリを使ってみた結果でした。
 

@@ -7,7 +7,6 @@ title: "決めた技術を2日で全部やり直した話"
 AWS資格試験「SAP-C02」対策アプリ「Dojoru」を、AI(Claude Code)と協業しながら個人開発している記録シリーズです。今回は、プロジェクト開始からわずか2日で技術スタックを丸ごと乗り換えた話をします。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 ## 最初はFlutterで始めていた
 
@@ -80,3 +79,6 @@ Macを1台も使わずにAndroid・iOS両方のアプリをビルドできる、
 - 既存の資産(仕様・ドキュメント)は、実装言語が変わっても「考え方」の部分は転用できる
 
 次回は、「AI自身が生成したコンテンツの落とし穴」について書きます。
+---
+
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)

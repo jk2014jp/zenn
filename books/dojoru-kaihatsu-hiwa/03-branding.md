@@ -7,7 +7,6 @@ title: "差別化とブランディングは、Geminiと作った"
 AWS資格試験「SAP-C02」対策アプリ「Dojoru(道場る)」を、AIと協業しながら個人開発している記録シリーズです。ここまでの回では、開発の中身をClaude Codeとどう進めたかを書いてきました。今回は少し毛色を変えて、**Claude Codeの合間に、Google Geminiを使って進めていた"企画・ブランディング"の話**をします。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 ## なぜツールを使い分けたか
 
@@ -80,3 +79,6 @@ Claude CodeはProプランで使っています。プロジェクト開始当初
 少し主観的な感想も書いておきます。実際に両方を使ってみて、Claudeは**真面目な秀才**、Geminiは**どこか抜けているけど発想が面白い変わり者**、というのが私の中の印象です。決まったことをきっちりこなしていくのはClaudeの方が得意で、柔らかく発想を広げるのはGeminiの方が得意、という体感を持っています。
 
 次回からは、再びClaude Code側の話に戻り、技術スタックを2日で丸ごとやり直した顛末を書きます。
+---
+
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)

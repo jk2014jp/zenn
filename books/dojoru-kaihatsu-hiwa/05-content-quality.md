@@ -7,6 +7,7 @@ title: "AIが作った試験問題、実は読まずに解けた話"
 AWS資格試験「SAP-C02」対策アプリ「Dojoru」を、AI(Claude Code)と協業しながら個人開発している記録シリーズです。今回は、「AIが作ったコンテンツに潜んでいた致命的な欠陥」について書きます。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
+→ Google Playで手に入れる: <https://play.google.com/store/apps/details?id=com.dojoru.app>
 
 ## 試験対策アプリなのに、読まずに解けてしまう
 

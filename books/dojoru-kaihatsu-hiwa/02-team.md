@@ -7,7 +7,7 @@ title: "個人開発にAIで「部署」を作ってみた話"
 **Dojoru(道場る)** は、AWS資格試験「SAP-C02」対策のための問題演習Androidアプリ(非公式教材)です。全75問無料・広告なし・オフライン動作、間隔反復(SRS)による復習、誤答理由の1タップ記録、弱点分析などを備えています。開発は個人(私)が最終意思決定者となり、Claude Codeを相棒に進めてきました。
 
 → アプリの詳細はこちら: <https://jk2014jp.github.io/dojoru-public/>
-→ Google Playで手に入れる: <https://play.google.com/store/apps/details?id=com.dojoru.app>
+[![Google Playで手に入れよう](/images/google-play-badge-ja.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
 
 この記事はそのシリーズ第2回。前回は、Claude Codeを開く前の壁打ちで実は多くのことが決まっていたこと、そして実際にClaude Codeへ最初に渡したプロンプトの中には、チーム運営のルールの原型や大切にしたい価値観までもがすでに書き込まれていたという話をしました。今回は、その原石が実際にClaude Codeでの開発の中でどう磨かれていったか、「AIとどう協業したか」の一番土台になる部分、**なぜAIに"部署"を持たせたのか**という話をします。
 

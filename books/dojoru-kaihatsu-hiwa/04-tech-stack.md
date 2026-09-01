@@ -82,3 +82,4 @@ Macを1台も使わずにAndroid・iOS両方のアプリをビルドできる、
 ---
 
 [![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
+[![App Storeからダウンロード](/images/app-store-badge-ja.svg)](https://apps.apple.com/jp/app/dojoru/id6796192149)

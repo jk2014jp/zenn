@@ -75,5 +75,4 @@ Dojoruのアプリは、選択肢の表示順を毎回シャッフルせず、�
 次回は、UIの細かい改善を「作ってから直す」ではなく「試してから作る」で進めた話です。
 ---
 
-[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
-[![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app) [![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)

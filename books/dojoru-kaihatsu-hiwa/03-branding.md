@@ -81,5 +81,4 @@ Claude CodeはProプランで使っています。プロジェクト開始当初
 次回からは、再びClaude Code側の話に戻り、技術スタックを2日で丸ごとやり直した顛末を書きます。
 ---
 
-[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
-[![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app) [![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)

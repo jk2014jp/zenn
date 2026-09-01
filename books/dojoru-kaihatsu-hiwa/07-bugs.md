@@ -70,5 +70,4 @@ Dojoruでは、ロジック層のユニットテストに加えて、品質管�
 次回はシリーズ最終回、Windowsだけでどうやって Android と iOS の両方をリリースまで持っていったか、という話です。
 ---
 
-[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
-[![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app) [![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)

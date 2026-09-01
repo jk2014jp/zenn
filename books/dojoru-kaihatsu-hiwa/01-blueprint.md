@@ -113,5 +113,4 @@ MVPの骨格が固まったのと同じ流れの中で、アプリの名前も�
 次回は、いよいよClaude Codeでの開発が始まってからの話に戻り、AIに仮想的な「部署」を持たせた体制づくりの話をします(このExpoの伏線がどう回収されたかは、第4回で書きます)。
 ---
 
-[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app)
-[![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)
+[![Google Playで手に入れよう](/images/google-play-badge-ja-small.png)](https://play.google.com/store/apps/details?id=com.dojoru.app) [![App Storeからダウンロード](/images/app-store-badge-ja.png)](https://apps.apple.com/jp/app/dojoru/id6796192149)

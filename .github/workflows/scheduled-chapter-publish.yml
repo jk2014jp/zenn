@@ -38,8 +38,8 @@ jobs:
               2026-08-28) CHAPTER="04-tech-stack" ;;
               2026-08-29) CHAPTER="05-content-quality" ;;
               2026-08-30) CHAPTER="06-ux" ;;
-              2026-09-04) CHAPTER="07-bugs" ;;
-              2026-09-05) CHAPTER="08-release" ;;
+              2026-09-02) CHAPTER="07-bugs" ;;
+              2026-09-03) CHAPTER="08-release" ;;
               *) CHAPTER="" ;;
             esac
           fi

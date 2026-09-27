@@ -3,7 +3,7 @@ title: "AI開発チームと作った資格学習アプリ、Claude公式資格3
 emoji: "🎓"
 type: "tech"
 topics: ["claudecode", "個人開発", "生成ai", "expo", "reactnative"]
-published: false
+published: true
 ---
 
 少し宣伝っぽくなってしまうかもしれませんが、個人開発しているアプリ「Dojoru」がClaude資格に対応しました。

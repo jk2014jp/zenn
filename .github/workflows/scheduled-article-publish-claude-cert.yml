@@ -1,0 +1,40 @@
+name: Scheduled Article Publish (Claude Cert)
+
+on:
+  schedule:
+    # 17:00 JST = 08:00 UTC、2026-09-27のみ実行対象
+    - cron: "0 8 27 9 *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 記事をpublished:trueに切り替えてpush
+        run: |
+          FILE="articles/dojoru-claude-certification-3exams.md"
+
+          if [ ! -f "$FILE" ]; then
+            echo "::error::記事ファイルが見つかりません: $FILE"
+            exit 1
+          fi
+
+          if grep -qE "^published:\s*true\s*$" "$FILE"; then
+            echo "既に公開済みのためスキップ"
+            exit 0
+          fi
+
+          sed -i 's/^published: false$/published: true/' "$FILE"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$FILE"
+          git commit -m "chore: Claude公式資格対応編を公開(予約投稿・自動実行)"
+          git push
